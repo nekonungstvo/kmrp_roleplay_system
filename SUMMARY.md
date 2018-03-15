@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Вступление](README.md)
 * [Уровень навыков](skill_levels.md)
 * [Навыки](skills.md)
 * [Боевые столкновения](combat.md)
