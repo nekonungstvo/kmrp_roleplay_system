@@ -1,9 +1,10 @@
-# Summary
+# Table of contents
 
 * [Вступление](README.md)
-* [Уровень навыков](skill_levels.md)
-* [Навыки](skills.md)
-* [Ранения](wounds.md)
-* [Боевые столкновения](combat.md)
-* [Внимательность и скрытность](perception_and_stealth.md)
+* [Уровень навыков](uroven-navykov.md)
+* [Навыки](navyki.md)
+* [Ранения](raneniya.md)
+* [Боевые столкновения](boevye-stolknoveniya.md)
+* [Бой на дистанции](combat_distance.md)
+* [Внимательность и скрытность](vnimatelnost-i-skrytnost.md)
 
